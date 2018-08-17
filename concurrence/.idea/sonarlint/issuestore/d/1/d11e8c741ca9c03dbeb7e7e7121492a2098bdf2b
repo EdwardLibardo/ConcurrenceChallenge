@@ -1,0 +1,12 @@
+
+Jsquid:S1602 ",Remove useless curly braces around statement(áÓÅÿ8¹ÿ©Ô,
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(µ¯à·8ıá°¨Ô,
+U
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ş¯¤?8ıá°¨Ô,
+Jsquid:S16026",Remove useless curly braces around statement(áÓÅÿ8òı©Ô,
+osquid:S1192!"QDefine a constant instead of duplicating this literal " Atention Time: " 3 times.(ÈÙ¸ù8ıá°¨Ô,
+Jsquid:S1602*",Remove useless curly braces around statement(áÓÅÿ8ÜÁ©Ô,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ´ã¢úÿÿÿÿ8•ó·¨Ô,
+V
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÈÙ¸ù8ıá°¨Ô,
